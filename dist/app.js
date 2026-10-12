@@ -1,0 +1,11 @@
+const menu=document.querySelector('.menu');const nav=document.querySelector('.nav');
+menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close navigation':'Open navigation');nav.classList.toggle('open',open)});
+nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Open navigation')}));
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav?.classList.contains('open')){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.focus()}});
+const dialog=document.querySelector('#quote-dialog');let quoteTrigger;
+document.querySelectorAll('[data-quote]').forEach(b=>b.addEventListener('click',()=>{quoteTrigger=b;dialog.showModal()}));
+dialog?.querySelector('.close').addEventListener('click',()=>dialog.close());
+dialog?.addEventListener('close',()=>quoteTrigger?.focus());
+dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});
+document.querySelectorAll('[data-enquiry]').forEach(form=>{form.querySelector('[name="Name"]').addEventListener('input',e=>e.target.setCustomValidity(e.target.value.trim()?'':'Please enter your name.'));form.addEventListener('submit',e=>{e.preventDefault();const name=form.querySelector('[name="Name"]');name.setCustomValidity(name.value.trim()?'':'Please enter your name.');if(!form.reportValidity())return;const lines=['Hello PROCARE INSURANCE,',form.dataset.enquiry,''];for(const [label,value]of new FormData(form)){if(value.trim())lines.push(label+': '+value.trim())}window.location.assign('https://wa.me/919061666607?text='+encodeURIComponent(lines.join('\n')))});});
+document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());
