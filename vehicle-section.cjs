@@ -1,0 +1,10 @@
+const vehicles=[
+ ['goods-vehicle','Goods Vehicle','Cover enquiries for pickups and light commercial goods vehicles.'],
+ ['car','Car','Explore insurance options for your private car.'],
+ ['scooter','Scooter','Enquire about cover for your everyday two-wheeler journeys.'],
+ ['bus','Bus','Insurance guidance for passenger and commercial buses.'],
+ ['school-bus','School Bus','Discuss suitable cover for school transport vehicles.'],
+ ['autorickshaw','Autorickshaw','Insurance enquiries for passenger autorickshaws and commercial three-wheelers.'],
+ ['truck','Truck','Explore cover for heavy goods and commercial trucks.']
+];
+module.exports=`<section class="vehicle-section" id="vehicle-insurance"><div class="wrap"><div class="section-top"><div><div class="eyebrow">Motor insurance, for your vehicle</div><h2>From everyday rides<br>to the vehicles that work for you.</h2></div><p>Choose your vehicle type to start an enquiry. We’ll help explain available coverage and the details to check.</p></div><div class="vehicle-gallery">${vehicles.map(([file,title,copy])=>`<article class="vehicle-card"><div class="vehicle-image"><img src="assets/vehicles/${file}.webp" alt="${title==='Goods Vehicle'?'Compact goods delivery vehicle':title==='Truck'?'Heavy cargo truck':title==='Bus'?'Passenger bus':title==='School Bus'?'Yellow school bus':title==='Car'?'Teal family car':title==='Autorickshaw'?'Teal passenger autorickshaw':'Teal step-through scooter'} illustration" width="900" height="600" loading="lazy" decoding="async"></div><div class="vehicle-content"><h3>${title}</h3><p>${copy}</p><a class="text-link" href="https://wa.me/919061666607?text=${encodeURIComponent('Hello Procare, I would like to enquire about '+title.toLowerCase()+' insurance.')}" target="_blank" rel="noopener noreferrer">Enquire about ${title.toLowerCase()} insurance <span aria-hidden="true">↗</span></a></div></article>`).join('')}</div><p class="vehicle-note">Vehicle images are illustrative. Available cover depends on the insurer, vehicle eligibility, usage, and policy wording.</p></div></section>`;

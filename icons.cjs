@@ -5,5 +5,8 @@ const paths=[
 '<path d="M16 28S3 20 3 12c0-7 9-10 13-3 4-7 13-4 13 3 0 8-13 16-13 16Z"/><path d="M16 12v9m-4-4h8"/>',
 '<circle cx="16" cy="8" r="4"/><path d="M9 25v-5c0-8 14-8 14 0v5M3 26v-4c0-5 4-7 7-5m19 9v-4c0-5-4-7-7-5"/><circle cx="6" cy="12" r="3"/><circle cx="26" cy="12" r="3"/>',
 '<path d="M4 28V12l12-8 12 8v16H4ZM12 28V18h8v10M8 13h2m12 0h2M8 18h2m12 0h2M8 23h2m12 0h2"/>'
+,'<path d="m3 15 13-11 13 11M7 12v16h18V12M13 28V18h6v10"/>'
+,'<path d="M5 28V5h14v23M19 12h8v16M9 10h6m-6 6h6m-6 6h6M23 17v2m0 4v2"/>'
+,'<path d="M16 3 28 8v8c0 7-12 13-12 13S4 23 4 16V8zM10 16l4 4 8-9"/>'
 ];
 module.exports=paths.map(p=>'<svg viewBox="0 0 32 32" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+p+'</svg>');

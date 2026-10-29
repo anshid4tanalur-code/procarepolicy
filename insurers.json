@@ -1,0 +1,36 @@
+{
+  "motor": [
+    ["United India Insurance", "https://uiic.co.in/"],
+    ["New India Assurance", "https://www.newindia.co.in/"],
+    ["National Insurance", "https://nationalinsurance.nic.co.in/"],
+    ["Oriental Insurance", "https://orientalinsurance.org.in/"],
+    ["Bajaj General Insurance", "https://www.bajajgeneralinsurance.com/"],
+    ["ICICI Lombard General Insurance", "https://www.icicilombard.com/"],
+    ["HDFC ERGO General Insurance", "https://www.hdfcergo.com/"],
+    ["Tata AIG General Insurance", "https://www.tataaig.com/"],
+    ["SBI General Insurance", "https://www.sbigeneral.in/"],
+    ["IndusInd General Insurance", "https://www.indusindinsurance.com/"],
+    ["Go Digit General Insurance", "https://www.godigit.com/"],
+    ["ACKO General Insurance", "https://www.acko.com/"],
+    ["Cholamandalam MS General Insurance", "https://www.cholainsurance.com/"],
+    ["IFFCO Tokio General Insurance", "https://www.iffcotokio.co.in/"],
+    ["Royal Sundaram General Insurance", "https://www.royalsundaram.in/"],
+    ["Shriram General Insurance", "https://www.shriramgi.com/"],
+    ["Generali Central Insurance", "https://www.generalicentralinsurance.com/"],
+    ["Universal Sompo General Insurance", "https://www.universalsompo.com/"],
+    ["Zurich Kotak General Insurance", "https://www.zurichkotak.com/"],
+    ["Liberty General Insurance", "https://www.libertyinsurance.in/"],
+    ["Zuno General Insurance", "https://www.hizuno.com/"],
+    ["Magma General Insurance", "https://www.magmainsurance.com/"],
+    ["Navi General Insurance", "https://navi.com/insurance" ]
+  ],
+  "health": [
+    ["Star Health and Allied Insurance", "https://www.starhealth.in/"],
+    ["Care Health Insurance", "https://www.careinsurance.com/"],
+    ["Niva Bupa Health Insurance", "https://www.nivabupa.com/"],
+    ["Aditya Birla Health Insurance", "https://www.adityabirlacapital.com/healthinsurance/"],
+    ["ManipalCigna Health Insurance", "https://www.manipalcigna.com/"],
+    ["Narayana Health Insurance", "https://www.narayanahealth.insurance/"],
+    ["Galaxy Health Insurance", "https://www.galaxyhealth.com/" ]
+  ]
+}

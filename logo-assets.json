@@ -1,0 +1,152 @@
+[
+  {
+    "name": "United India Insurance",
+    "file": "assets/insurers/united-india-insurance.png",
+    "source": "https://uiic.co.in/web/themes/custom/uiic_theme/images/uiiclogo_new.png"
+  },
+  {
+    "name": "New India Assurance",
+    "file": "assets/insurers/new-india-assurance.webp",
+    "source": "https://www.newindia.co.in/assets/images/NIA_logo.webp"
+  },
+  {
+    "name": "National Insurance",
+    "file": "assets/insurers/national-insurance.svg",
+    "source": "https://nationalinsurance.nic.co.in/themes/custom/nicl/logo.svg"
+  },
+  {
+    "name": "Oriental Insurance",
+    "file": "assets/insurers/oriental-insurance.png",
+    "source": "https://oicl-cms-media.s3.ap-south-1.amazonaws.com/oicl_logo_f696d7368c.png"
+  },
+  {
+    "name": "Bajaj General Insurance",
+    "file": "assets/insurers/bajaj-general-insurance.gif",
+    "source": "https://www.bajajgeneralinsurance.com/content/dam/revampbagic/homepage/BGIL-logo.gif"
+  },
+  {
+    "name": "ICICI Lombard General Insurance",
+    "file": "assets/insurers/icici-lombard-general-insurance.svg",
+    "source": "https://corporate.icicilombard.com/assets/images/logo.svg"
+  },
+  {
+    "name": "HDFC ERGO General Insurance",
+    "file": "assets/insurers/hdfc-ergo-general-insurance.png",
+    "source": "https://www.hdfcergo.com/images/default-source/home/logo_hdfc.png"
+  },
+  {
+    "name": "Tata AIG General Insurance",
+    "file": "assets/insurers/tata-aig-general-insurance.svg",
+    "source": "https://www.tataaig.com/TataAigLogoNew.svg"
+  },
+  {
+    "name": "SBI General Insurance",
+    "file": "assets/insurers/sbi-general-insurance.webp",
+    "source": "https://www.sbigeneral.in/assets/images/sbig-logo.webp"
+  },
+  {
+    "name": "IndusInd General Insurance",
+    "file": "assets/insurers/indusind-general-insurance.png",
+    "source": "https://www.indusindinsurance.com/image/layout_set_logo?img_id=3324004&t=1791398943416"
+  },
+  {
+    "name": "Go Digit General Insurance",
+    "file": "assets/insurers/go-digit-general-insurance.svg",
+    "source": "https://d2h44aw7l5xdvz.cloudfront.net/assets/logos/digit.svg"
+  },
+  {
+    "name": "ACKO General Insurance",
+    "file": "assets/insurers/acko-general-insurance.svg",
+    "source": "https://acko-brand.ackoassets.com/brand/vector-svg/gradient/gradient-horizontal.svg"
+  },
+  {
+    "name": "Cholamandalam MS General Insurance",
+    "file": "assets/insurers/cholamandalam-ms-general-insurance.png",
+    "source": "https://www.cholainsurance.com/o/chola-corporate-theme/images/logo.png"
+  },
+  {
+    "name": "IFFCO Tokio General Insurance",
+    "file": "assets/insurers/iffco-tokio-general-insurance.svg",
+    "source": "https://www.iffcotokio.co.in/content/dam/iffcotokio/iffco-images/iffco-tokio-logo-english.svg"
+  },
+  {
+    "name": "Royal Sundaram General Insurance",
+    "file": "assets/insurers/royal-sundaram-general-insurance.png",
+    "source": "https://www.royalsundaram.in/assets/images/rs-new-logo.png"
+  },
+  {
+    "name": "Shriram General Insurance",
+    "file": "assets/insurers/shriram-general-insurance.jpg",
+    "source": "https://www.shriramgi.com/bundle/assets/images/common/logo.jpg"
+  },
+  {
+    "name": "Generali Central Insurance",
+    "file": "assets/insurers/generali-central-insurance.svg",
+    "source": "https://assets.futuregenerali.in/header-assets/updated-header-logo/logo.svg"
+  },
+  {
+    "name": "Universal Sompo General Insurance",
+    "file": "assets/insurers/universal-sompo-general-insurance.svg",
+    "source": "https://www.universalsompo.com/assets/images/usgi-logo.svg"
+  },
+  {
+    "name": "Zurich Kotak General Insurance",
+    "file": "assets/insurers/zurich-kotak-general-insurance.webp",
+    "source": "https://www.zurichkotak.com/assets/images/Common/zurich_logo.webp"
+  },
+  {
+    "name": "Liberty General Insurance",
+    "file": "assets/insurers/liberty-general-insurance.png",
+    "source": "https://www.libertyinsurance.in/images/logo1.png"
+  },
+  {
+    "name": "Zuno General Insurance",
+    "file": "assets/insurers/zuno-general-insurance.svg",
+    "source": "https://www.hizuno.com/uploads/Logo_76d09944ee.svg"
+  },
+  {
+    "name": "Magma General Insurance",
+    "file": "assets/insurers/magma-general-insurance.svg",
+    "source": "https://www.magmainsurance.com/documents/5553002/0/Magma+Logo_0424+208X48+px.svg/633a6028-0d82-2e1a-eece-d0a9941e4a86?t=1735814746303"
+  },
+  {
+    "name": "Navi General Insurance",
+    "file": "assets/insurers/navi-general-insurance.svg",
+    "source": "https://navi.com/static/media/naviLogo.c2380d7b.svg"
+  },
+  {
+    "name": "Star Health and Allied Insurance",
+    "file": "assets/insurers/star-health-and-allied-insurance.svg",
+    "source": "https://d28c6jni2fmamz.cloudfront.net/star_health_new_logo_Blue_6a4457e498.svg"
+  },
+  {
+    "name": "Care Health Insurance",
+    "file": "assets/insurers/care-health-insurance.svg",
+    "source": "https://www.careinsurance.com/images/care_health_insurance_logo.svg"
+  },
+  {
+    "name": "Niva Bupa Health Insurance",
+    "file": "assets/insurers/niva-bupa-health-insurance.svg",
+    "source": "https://www.nivabupa.com/svgs/niva-bupa-logo.svg"
+  },
+  {
+    "name": "Aditya Birla Health Insurance",
+    "file": "assets/insurers/aditya-birla-health-insurance.png",
+    "source": "https://healthinsuranceblob.abhicl.in/marketingcontent/assets/img/abhi-logo-new.png"
+  },
+  {
+    "name": "ManipalCigna Health Insurance",
+    "file": "assets/insurers/manipalcigna-health-insurance.png",
+    "source": "https://www.manipalcigna.com/images/manipal-logo-new.png"
+  },
+  {
+    "name": "Narayana Health Insurance",
+    "file": "assets/insurers/narayana-health-insurance.svg",
+    "source": "https://www.narayanahealth.insurance/img/narayana_health_insurance_logo.svg"
+  },
+  {
+    "name": "Galaxy Health Insurance",
+    "file": "assets/insurers/galaxy-health-insurance.webp",
+    "source": "https://www.galaxyhealth.com/_astro/LogoNW1.X876WOf3_1pfbDe.webp"
+  }
+]
